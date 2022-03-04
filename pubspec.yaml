@@ -12,9 +12,11 @@ dependencies:
   bloc: ^8.0.3
   cupertino_icons: ^1.0.2
   dio: ^4.0.4
+  email_validator: ^2.0.1
   equatable: ^2.0.3
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.0.1
   get_it: ^7.2.0
   shared_preferences: ^2.0.13
 
