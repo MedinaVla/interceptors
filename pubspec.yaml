@@ -31,6 +31,7 @@ dependencies:
     sdk: flutter
   dio: ^4.0.4
   shared_preferences: ^2.0.13
+  get_it: ^7.2.0
 
   
   
